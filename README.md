@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/ronak-jat/Ronak-Jat/blob/main/_Pixie_%20Stream%20Graphics.gif)
 <h1 align="center">Hi 👋, I'm Diksha</h1>
 <h3 align="center">A passionate junior developer. AI/ML enthusiast.</h3>
 
