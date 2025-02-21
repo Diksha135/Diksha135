@@ -1,5 +1,10 @@
-![MasterHead](https://gi![e18518c6d24257c6fb02e3c95a862d85](https://github.com/user-attachments/assets/5dc4b341-25ea-44f1-9658-464601e04276)
-thub.com/ronak-jat/Ronak-Jat/blob/main/_Pixie_%20Stream%20Graphics.gif)
+
+![Uploading e18518c6d24257c6fb02e3c95a862d85.gif…]()
+
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm Diksha</h1>
 <h3 align="center">A passionate junior developer. AI/ML enthusiast.</h3>
