@@ -10,7 +10,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Diksha</h1>
+
 ![coder girl](https://github.com/user-attachments/assets/dbcc7c3a-c07a-4041-810b-494c30992a8f)
+
 <h3 align="center">A passionate junior developer. AI/ML enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha135&label=Profile%20views&color=0e75b6&style=flat" alt="diksha135" /> </p>
