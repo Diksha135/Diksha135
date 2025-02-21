@@ -2,7 +2,8 @@
 
 
 
-![coder girl](https://github.com/user-attachments/assets/dbcc7c3a-c07a-4041-810b-494c30992a8f)
+
+![computer](https://github.com/user-attachments/assets/09158bbe-2371-4b07-9c76-f2a7e2c758f8)
 
 
 
@@ -14,6 +15,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diksha135&label=Profile%20views&color=0e75b6&style=flat" alt="diksha135" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diksha135" alt="diksha135" /></a> </p>
+
+
+![coder girl](https://github.com/user-attachments/assets/dbcc7c3a-c07a-4041-810b-494c30992a8f)
 
 - 🌱 I’m currently learning **AI/ML ,Exploring Hardware and python**
 
