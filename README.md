@@ -33,6 +33,11 @@
   <img src="https://streak-stats.demolab.com?user=diksha135&theme=radical" alt="GitHub Streak" />
 </div>
 ---
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Diksha135-byte&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+---
 
 ## 🖥️ Technical Skills:
 
