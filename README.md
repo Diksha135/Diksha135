@@ -75,6 +75,11 @@
   
   <!-- Language Stats - Force show -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha135&theme=radical&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-slideshow&v=2" alt="Langs" width="300"/>
+  
 </p>
+![Building](https://raw.githubusercontent.com/diksha135/diksha135/main/assets/construct.gif)
+*Stats will appear within 24 hours of first public repo commit*
+
+
 
 ✨ *Keep Learning, Keep Innovating!* 🚀
