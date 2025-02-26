@@ -67,10 +67,11 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diksha135&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Diksha135&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="Stats"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diksha135&theme=radical&hide_border=true" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha135&theme=radical&hide_border=true" alt="Streak"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha135&theme=radical&hide_border=true&layout=compact&exclude_repo=repo1,repo2&langs_count=8" alt="Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha135&theme=radical&hide_border=true&layout=compact&exclude_repo=repo1,repo2&langs_count=8" alt="Langs"/>
 </p>
+
 ✨ *Keep Learning, Keep Innovating!* 🚀
