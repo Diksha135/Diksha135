@@ -65,20 +65,14 @@
 
 
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Diksha135&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&v=2" alt="Stats" width="400"/>
-  
-  <!-- Streak Stats - Fixed username -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha135&theme=radical&hide_border=true&v=2" alt="Streak" width="400"/>
-  
-  <!-- Language Stats - Force show -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha135&theme=radical&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-slideshow&v=2" alt="Langs" width="300"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Diksha135&theme=radical&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha135&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha135&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
-![Building](https://raw.githubusercontent.com/diksha135/diksha135/main/assets/construct.gif)
-*Stats will appear within 24 hours of first public repo commit*
+
+
 
 
 
