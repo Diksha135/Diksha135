@@ -67,11 +67,14 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diksha135&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="Stats"/>
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Diksha135&theme=radical&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&v=2" alt="Stats" width="400"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha135&theme=radical&hide_border=true" alt="Streak"/>
+  <!-- Streak Stats - Fixed username -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha135&theme=radical&hide_border=true&v=2" alt="Streak" width="400"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha135&theme=radical&hide_border=true&layout=compact&exclude_repo=repo1,repo2&langs_count=8" alt="Langs"/>
+  <!-- Language Stats - Force show -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha135&theme=radical&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-slideshow&v=2" alt="Langs" width="300"/>
 </p>
 
 ✨ *Keep Learning, Keep Innovating!* 🚀
