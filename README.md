@@ -69,7 +69,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Diksha135&theme=radical&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha135&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha135&theme=radical&hide_border=true&layout=compact" 
+ 
 </p>
 
 ### 📊 GitHub Stats:
