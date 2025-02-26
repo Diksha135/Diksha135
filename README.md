@@ -49,6 +49,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
 </p>
 ---
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diksha135&show_icons=true&locale=en&layout=compact" alt="diksha135" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diksha135&" alt="diksha135" /></p>
+make it more creative
+---
 ### 🤝 Let's Connect
 
 <p align="center">
