@@ -75,6 +75,11 @@
  < ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha135&theme=radical&hide_border=true&layout=compact&cache_seconds=1800)/>
 </p>
 
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Diksha135&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+
+</p>
 
 
 
